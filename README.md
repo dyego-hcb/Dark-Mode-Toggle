@@ -6,4 +6,4 @@ O arquivo HTML contém a estrutura da página web e inclui referências para os 
 
 O código JavaScript é responsável por detectar a escolha do usuário em relação ao tema, e em seguida, atualizar o estilo da página para refletir a escolha. Além disso, o código é projetado para garantir que as preferências do usuário sejam mantidas entre sessões, permitindo que o tema selecionado permaneça consistente entre as visitas.
 
-O repositório inclui também uma documentação detalhada e instruções passo a passo para ajudar a configurar o código em um ambiente de desenvolvimento e personalizá-lo de acordo com as necessidades do usuário.
+O repositório inclui duas versões de código, onde na primeira versão é possível alterar o tema do navegador, porem ao atualizar a página volta para o tema original, e na segunda versão é possível salvar qual tema escolhido pelo usuário e ao atualizar a página que o mesmo permanecera.
